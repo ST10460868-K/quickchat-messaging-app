@@ -56,7 +56,7 @@ mvn test
 
 ## 📊 CI Badge
 
-![Java CI](https://github.com/ST10460868-K/Quickchat-messaging-app/actions/workflows/maven-test.yml/badge.svg)
+![Java CI]https://github.com/ST10460868-K/quickchat-messaging-app.git
 
 ---
 
